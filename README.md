@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TravelAI - Tourism & Industry Innovation Through AI-Powered Travel Planning
 
 > **Tagline:** "Plan smarter. Travel better. Explore more."  
@@ -155,3 +156,6 @@ tourism/
 - **Route Clustering**: Click **"Optimize Route"** on any trip to see travel time and budget reduction in action.
 
 *Created for Smart India Hackathon 2026 • Category: Travel, Tourism & Industry Innovation Through AI.*
+=======
+# tourism
+>>>>>>> d62f218ea35a3bb5f058a5980b467d41dcba176e
